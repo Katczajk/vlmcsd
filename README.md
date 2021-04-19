@@ -18,3 +18,5 @@ original pulled from https://github.com/Wind4/vlmcsd
   
   
 - Name Executable changed from vlmcsd-Windows.exe -> vlmcsd.exe
+
+- Name Library changed from libkms-WindowsXX.dll to libkmsXX.dll ( so libkms32.dll from 32bit )
