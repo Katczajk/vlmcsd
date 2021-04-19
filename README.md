@@ -1,6 +1,6 @@
 # VLMCSD
 
-original pulled from https://github.com/Wind4/vlmcsd \n
+original pulled from https://github.com/Wind4/vlmcsd 
 (C)opyright for create and code by Group Repository https://github.com/Wind4/vlmcsd
 
 # Changes
